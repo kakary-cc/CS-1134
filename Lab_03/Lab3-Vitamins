@@ -1,0 +1,11 @@
+1.  a)
+
+2.  a) True
+	b) False, should be n^3/2
+	c) True
+
+3.  a) Θ(n)
+	b) Θ(n)
+	c) Θ(n^2)
+	d) Θ(n^3/2)
+	e) Θ(n^2)
